@@ -10,3 +10,5 @@ This is a work in progress and I plan to add:
   - An iOS port
 
 ![image](https://user-images.githubusercontent.com/74532838/114762046-33b3be80-9d59-11eb-898f-58ab07677871.png)
+
+The music used was created by BoxCat Games and can be found here: https://freemusicarchive.org/music/BoxCat_Games
